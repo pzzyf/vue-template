@@ -1,5 +1,26 @@
-# Vue 3 + Vite
+# Vue Template
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Inspired by [Vitesse-Lite](https://github.com/antfu-collective/vitesse-lite) ❤
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+vite搭建项目
+
+- [create-vite](https://github.com/vitejs/vite)
+
+配置eslint
+
+- [eslint](https://github.com/antfu/eslint-config)
+
+配置typescript
+
+配置unocss
+
+- [unocss](https://github.com/unocss/unocss)
+
+配置unplugin
+
+- [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import)
+- [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components)
+
+配置macros
+
+- [vue-macros](https://github.com/vue-macros/vue-macros)
