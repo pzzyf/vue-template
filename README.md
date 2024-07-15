@@ -10,7 +10,10 @@ vite搭建项目
 
 - [eslint](https://github.com/antfu/eslint-config)
 
-配置typescript
+配置typescript  
+类型检查和dts文件生成
+
+- [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc)
 
 配置unocss
 
@@ -24,3 +27,5 @@ vite搭建项目
 配置macros
 
 - [vue-macros](https://github.com/vue-macros/vue-macros)
+
+配置路径别名
