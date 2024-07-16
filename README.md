@@ -11,6 +11,7 @@ vite搭建项目
 - [eslint](https://github.com/antfu/eslint-config)
 
 配置typescript  
+配置路径别名  
 类型检查和dts文件生成
 
 - [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc)
@@ -34,3 +35,10 @@ vite搭建项目
 配置理由自动导入
 
 - [vue-router](https://github.com/vuejs/router)
+- [unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+
+配置图标  
+配置vueuse
+
+- [iconify](https://github.com/iconify/iconify)
+- [vueuse](https://github.com/vueuse/vueuse)
