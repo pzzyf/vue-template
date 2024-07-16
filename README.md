@@ -29,3 +29,8 @@ vite搭建项目
 - [vue-macros](https://github.com/vue-macros/vue-macros)
 
 配置路径别名
+
+配置路由  
+配置理由自动导入
+
+- [vue-router](https://github.com/vuejs/router)
