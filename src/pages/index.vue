@@ -5,7 +5,7 @@
 <template>
   <div>
     <div>
-      123
+      vue template
     </div>
     <Footer />
   </div>
