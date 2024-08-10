@@ -1,13 +1,12 @@
 <script setup lang="ts">
+import { useCounterStore } from '@/store'
 
+const countStore = useCounterStore()
 </script>
 
 <template>
   <div>
-    <div>
-      vue template
-    </div>
-    <Footer />
+    {{ countStore.count }}
   </div>
 </template>
 
